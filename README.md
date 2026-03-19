@@ -4,6 +4,12 @@
 
 **CS205: Artificial Intelligence (Fall 2025) | Andrew Bremond**
 
+
+
+https://github.com/user-attachments/assets/e56a265b-2a17-417d-9f8d-93a441f433f8
+
+
+
 ## Overview
 In interviews and online meetings, it can often be difficult to tell if your answers are landing well or making things awkward. **"Read the Room"** is a Computer Vision project designed to provide "live feedback" to a speaker by classifying the facial expressions of the person they are talking to. 
 
